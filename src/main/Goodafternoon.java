@@ -8,6 +8,7 @@ public class Goodafternoon {
 		
 		System.out.println("My name is Kahar!!!");
 
+		System.out.println("My name is Dilmurat!!!");
 	}
 
 }
